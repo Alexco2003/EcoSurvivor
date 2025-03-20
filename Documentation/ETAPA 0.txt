@@ -1,0 +1,10 @@
+Ecosurvivor
+
+     Ecosurvivor este un joc de supraviețuire și simulare cu elemente de strategie. Jucătorul se trezește pe o insulă sau într-o pădure izolată după un accident aviatic, având resurse limitate și înconjurat de pericole naturale. Obiectivul este să supraviețuiască suficient de mult pentru a construi un semnal de ajutor sau a găsi o cale de evadare, prin adunarea de resurse, construirea unui adăpost și evitarea pericolelor. Jocul se încheie fie prin evadare, fie prin moarte, iar scorul este calculat în funcție de resursele adunate și timpul de supraviețuire.
+
+Interacțiunea cu utilizatorul începe cu un meniu simplu și un control intuitiv folosind tastele WASD și mouse-ul. Publicul țintă este format din persoane pasionate de supraviețuire și explorare, interesate de provocări logice.
+
+Cuvinte cheie: supraviețuire, simulare, strategie, explorare, resurse, natură.
+
+Jocuri similare includ Minecraft pentru libertatea creativă, The Forest pentru tensiunea supraviețuirii și Raft pentru gestionarea resurselor într-un mediu extrem.
+
