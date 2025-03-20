@@ -9,3 +9,7 @@ Watch a gameplay demonstration of EcoSurvivor:
 ## **Download**
 Play EcoSurvivor now:  
 [![Download EcoSurvivor](https://img.shields.io/badge/Download-EcoSurvivor-blue?logo=download)](https://drive.google.com/drive/u/2/folders/1ovTqN9NEHQJXjul0B2u2IKks7i2K-WCf)
+
+## Documentation
+
+For a detailed overview of the game development process, features, and insights, check out the [EcoSurvivor Documentation](https://github.com/Alexco2003/EcoSurvivor/tree/master/Documentation).
